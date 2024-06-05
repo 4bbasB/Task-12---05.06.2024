@@ -1,6 +1,6 @@
 ﻿namespace MyHelperClassLibrary.Helpers;
 
-public static class Helper<T>
+public static class Helper
 {
     public static string CreateBookCode(string bookName, int count)
     {
